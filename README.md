@@ -1,6 +1,7 @@
 # happy-branching
 Play with branches
 
+<<<<<<< HEAD
 ## Create test-branch:
 
 'git branch test-branch'
@@ -8,3 +9,8 @@ Play with branches
 ## Swith to test-branch
 
 'git checkout test-branch'
+=======
+##Main branch edits
+
+THis is the main
+>>>>>>> main
